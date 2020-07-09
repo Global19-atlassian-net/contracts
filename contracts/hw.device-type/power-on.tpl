@@ -1,0 +1,1 @@
+Connect a power cable to the board to power it up.
